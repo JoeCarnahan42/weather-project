@@ -5,3 +5,7 @@
 hr {
   border-top-width: 3px;
 }
+
+.weather-info {
+  text-align: center;
+}
