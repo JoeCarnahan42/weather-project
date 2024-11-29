@@ -9,3 +9,17 @@ hr {
 .weather-info {
   text-align: center;
 }
+
+#five-day-forecast {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#currDesc {
+  margin-bottom: 0;
+}
+
+#currInfo {
+  margin-top: 15px;
+}
